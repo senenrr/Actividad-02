@@ -1,3 +1,0 @@
-Nombre: daniel
-Correo: algo@gmail.com
-Telefono: 67678990
